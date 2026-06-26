@@ -21,7 +21,7 @@ Data Analysis & Machine Learning fundamentals
 Deep Learning - Computer Vision - Databases for AI
 
 ## Domains of interest
-- Football data - Chess data - E-commerce/logistics
+Football data - Chess data - E-commerce/logistics
 
 ## Connect
 -> [LinkedIn](https://www.linkedin.com/in/igor-pąśko-1270b3320/)
