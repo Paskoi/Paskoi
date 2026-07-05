@@ -2,7 +2,7 @@
 
 Data Analyst -> AI Engineer | SQL & Python
 
-- BEng Computer Science, currently MSc AI Engineering, Politechnika Lubelska
+- BEng Computer Science, currently MSc AI Engineering, Lublin University of Technology
 - E-commerce background (BI, ERP/PIM systems)
 - Lublin, PL
 
@@ -15,7 +15,7 @@ Stack: DuckDB, Python, Pandas
 -> [Repository](https://github.com/Paskoi/nyc_taxi_analysis)
 
 ## Currently learning
-Data Analysis & Machine Learning fundamentals
+Data Analysis & Machine Learning
 
 ## Next up
 Deep Learning - Computer Vision - Databases for AI
