@@ -25,9 +25,6 @@ Stack: DuckDB, Python, Pandas
 ## Currently learning
 Data Analysis & Machine Learning
 
-## Next up
-Deep Learning - Computer Vision - Databases for AI
-
 ## Domains of interest
 Football data - Chess data - E-commerce/logistics
 
