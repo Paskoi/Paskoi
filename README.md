@@ -28,7 +28,7 @@ Data Analysis & Machine Learning
 ## Domains of interest
 Football data - Chess data - E-commerce/logistics
 
-## Connect
+## Contact
 -> [LinkedIn](https://www.linkedin.com/in/igor-pąśko-1270b3320/)
 
 -> [Email](mailto:ipasko@protonmail.com)
