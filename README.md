@@ -1,6 +1,6 @@
 # Igor Pąśko
 
-Data Analyst -> Data Sciencist | SQL & Python
+Data Analyst -> Data Scientist | SQL & Python
 
 - BEng Computer Science, currently MSc AI Engineering, Lublin University of Technology
 - E-commerce background (BI, ERP/PIM systems)
@@ -22,7 +22,7 @@ Stack: DuckDB, Python, Pandas
 
 -> [Repository](https://github.com/Paskoi/nyc_taxi_analysis)
 
-## Currently working on
+## Recent work
 - **EDA practice on seaborn datasets**: research questions, cleaning, plots and written conclusions.
   
 -> [Repository](https://github.com/Paskoi/seaborn_eda_with_visualizations)
