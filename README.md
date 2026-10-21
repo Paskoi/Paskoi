@@ -1,6 +1,6 @@
 # Igor Pąśko
 
-Data Analyst -> AI Engineer | SQL & Python
+Data Analyst -> Data Sciencist | SQL & Python
 
 - BEng Computer Science, currently MSc AI Engineering, Lublin University of Technology
 - E-commerce background (BI, ERP/PIM systems)
@@ -10,7 +10,7 @@ Data Analyst -> AI Engineer | SQL & Python
 ### Chess Games Statistical Analysis & ML
 EDA and ML on 5M Lichess games — predicting game length, result, and draw
 probability from Elo ratings and openings. Includes a data pipeline from raw
-PGN to structured CSV.
+PGN to CSV.
 Stack: Python, Pandas, scikit-learn
 
 -> [Repository](https://github.com/Paskoi/chess_dataset_ml_statistics)
@@ -22,8 +22,10 @@ Stack: DuckDB, Python, Pandas
 
 -> [Repository](https://github.com/Paskoi/nyc_taxi_analysis)
 
-## Currently learning
-Data Analysis & Machine Learning
+## Currently working on
+- **EDA practice on seaborn datasets**: research questions, cleaning, plots and written conclusions.
+  
+-> [Repository](https://github.com/Paskoi/seaborn_eda_with_visualizations)
 
 ## Domains of interest
 Football data - Chess data - E-commerce/logistics
