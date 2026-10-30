@@ -10,7 +10,7 @@ Data Analyst -> Data Scientist | SQL & Python
 
 
 
-## Recent work
+## Practice
 - **EDA practice on seaborn datasets**: research questions, cleaning, plots and written conclusions.
   
 -> [Repository](https://github.com/Paskoi/seaborn_eda_with_visualizations)
