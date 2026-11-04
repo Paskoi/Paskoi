@@ -7,8 +7,9 @@ Data Analyst -> Data Scientist | SQL & Python
 - Lublin, PL
 
 ## Projects
+- **lichess-beyond-rating** *(in progress)*: Predicting chess game outcomes beyond player ratings. Done: Streaming parser for Lichess dump and a documented cleaning pipeline. *Python, pandas, Parquet.*
 
-
+-> [Repository](https://github.com/Paskoi/lichess-beyond-rating)
 
 ## Practice
 - **EDA practice on seaborn datasets**: research questions, cleaning, plots and written conclusions.
